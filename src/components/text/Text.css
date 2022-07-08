@@ -1,0 +1,26 @@
+.title_text{
+    position: relative;
+    right: 80px;
+    color: orange;
+}
+
+.lorem {
+    position: relative;
+    right: 400px;
+    top: 30px;
+}
+
+.lorem_2{
+    position: relative;
+    top: 90px;
+}
+
+.buttom_class{
+    position: relative;
+    width: 120px;
+    height: 50px;
+    left: 150px;
+    top: 140px;
+    background-color: purple;
+    color: white;
+}

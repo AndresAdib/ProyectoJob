@@ -1,0 +1,36 @@
+img{
+    position: relative;
+    width: 120px;
+    height: 80px;
+    float: left;
+    padding: 8px;
+    left: 30px;
+}
+
+.menu{
+    position: relative;
+    width: 1340px;
+    right: 10px;
+    margin: 0 auto;
+    background: rgba(179, 177, 177, 0.3);
+    clear: both;
+    display: table;
+}
+
+nav{
+    float: right;
+}
+
+nav ul li{
+    list-style: none;
+    margin-left: 75px;
+    padding: 25px 0;
+    float: left;
+    color: aliceblue;
+}
+
+a{
+    font-size: large;
+    font-family: 'Times New Roman', Times, serif;
+    color: purple;
+}

@@ -1,0 +1,27 @@
+.list_first{
+    position: absolute;
+    left: 500px;
+    margin-top: 10px;
+    padding: 10px;
+}
+
+.list_two{
+    position: absolute;
+    left: 800px;
+    margin-top: 10px;
+    padding: 10px;
+}
+
+.redes{
+    position: absolute;
+    left: 1100px;
+    margin-top: 10px;
+    width: 200px;
+    padding: 30px;
+}
+
+.img_banana{
+    position: relative;
+    left: 80px;
+    top: 20px;
+}
